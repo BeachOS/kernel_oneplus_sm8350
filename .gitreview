@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/kernel_oneplus_sm8350
+defaultbranch=android12L
